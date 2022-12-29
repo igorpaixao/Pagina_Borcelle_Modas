@@ -30,7 +30,7 @@ a:visited {
         height: 100%;
         box-sizing: border-box;
         padding: 20px;
-        background: url("/img/Bg02.png") no-repeat fixed left top;
+        background: url("../img/Bg02.png") no-repeat fixed left top;
         background-size: cover;
     }
     
@@ -47,7 +47,7 @@ a:visited {
         width: 200px;
         height: 60px;
         text-indent: -20000px;
-        background: url("/img/logo02.png") no-repeat;
+        background: url("../img/logo02.png") no-repeat;
         background-size: 200px;
     }
     
